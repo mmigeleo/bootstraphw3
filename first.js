@@ -7,4 +7,4 @@ let vaxt = mesafe/suret;
 
 let netice = city1 + " sheherinden " + city2 + " sheherine mesafe "+ mesafe + " km olarsa ve biz " + suret + " km/saata suretle hereket etmishik.. O zaman biz " + vaxt + " saata " + city2 + " sheherine catariq.";
 
-document.getElementById('ayaz').innerHTML = netice;
+document.getElementById('info1').innerHTML = netice;
